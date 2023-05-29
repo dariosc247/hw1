@@ -6,7 +6,6 @@
     <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
     <link rel = "icon" type = "images/x-icon" href="./images/logo.png"/>
     <link rel = "stylesheet" href = "hw1.css">
-    <script src = "hw1.js" defer = "true"></script>
 </head>
 
 <body>
@@ -19,13 +18,6 @@
         <button class = "button" id = "signup">Registrati</button>
     </a>
     <img class = "logo" src = "./images/logo.png">
-    <nav class = "navbar">
-        <ul class = "navbar-menu">
-            <li class = "list-element"><a href = "#">Login</a></li>
-            <li class = "list-element"><a href = "#">Registrati</a></li>
-        </ul>
-    </nav>
-
 </header>
 
 <section class = "presentation">
